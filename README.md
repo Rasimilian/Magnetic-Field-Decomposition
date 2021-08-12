@@ -1,5 +1,5 @@
 # Magnetic-Field-Decomposition
-A program to decompose a magnetic field of a dipole magnet into harmonics.
+A program to decompose magnetic field of a dipole magnet into harmonics.
 
 Dipole (B), Quadrupole (G), Sextupole (S) and Octupole (O) harmonics are presented.
 
